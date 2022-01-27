@@ -1,18 +1,3 @@
-{
-    "name": "UMA_Core",
-    "references": [
-        "Unity.Timeline",
-        "Unity.ResourceManager",
-        "Unity.Addressables",
-        "Addressable_Editor"
-    ],
-    "includePlatforms": [],
-    "excludePlatforms": [],
-    "allowUnsafeCode": false,
-    "overrideReferences": false,
-    "precompiledReferences": [],
-    "autoReferenced": true,
-    "defineConstraints": [],
-    "versionDefines": [],
-    "noEngineReferences": false
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3f779dd80efb69f05855e5b7fe25db58e918d2842cd3d92d25dfb0e81957330
+size 456

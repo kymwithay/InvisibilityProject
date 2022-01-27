@@ -1,21 +1,3 @@
-{
-    "name": "UMA_Core_Editor",
-    "references": [
-        "UMA_Core",
-        "Unity.Addressables.Editor",
-        "Unity.ResourceManager",
-        "Unity.Addressables",
-        "Addressable_Editor"
-    ],
-    "includePlatforms": [
-        "Editor"
-    ],
-    "excludePlatforms": [],
-    "allowUnsafeCode": false,
-    "overrideReferences": false,
-    "precompiledReferences": [],
-    "autoReferenced": true,
-    "defineConstraints": [],
-    "versionDefines": [],
-    "noEngineReferences": false
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e8e50bbea0bb897faa055bc52897bca42afb52d2335a187762e36485210c150
+size 519
